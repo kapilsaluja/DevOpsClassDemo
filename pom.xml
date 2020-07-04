@@ -54,7 +54,7 @@
     </pluginRepositories>
 
 
-    <dependencies>   
+    <dependencies>
         <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-compatibility-server</artifactId>
